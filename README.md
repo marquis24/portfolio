@@ -1,4 +1,4 @@
-## 🕸️ Portafolio Web — Marc Cuzcano
+## Portafolio Web — Marc Cuzcano
 
 ### 🌟 Descripción
 
@@ -48,18 +48,11 @@ Si tienes una propuesta o colaboración, ¡hablemos!
 
 ---
 
-## Autor
-[Marc Cuzcano](https://github.com/marquis24)
-
----
-
 ### 🧾 Licencia
 
 Este proyecto está bajo la licencia **MIT**, por lo que puedes usarlo o adaptarlo libremente, citando la fuente.
 
----
 
-¿Quieres que te lo prepare en formato Markdown (`README.md`) listo para copiar y pegar, con los iconos y estructura visual incluidos? Puedo generarlo completo para ti.
 
 
 
